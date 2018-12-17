@@ -1,4 +1,5 @@
 // Source: Marijn Haverbeke - "Eloquent JavaScript"
+
 /*
 Write a program that creates a string that represents an 8×8 grid, 
 using newline characters to separate lines. At each position 
@@ -22,6 +23,7 @@ that it works for any size, outputting a grid
 of the given width and height.
 */
 
+// Solution #1
 function chessboard(n) {
   let str = '';
   for(let row = 0; row < n; row++) {
