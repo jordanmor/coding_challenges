@@ -1,3 +1,5 @@
+// Source: 	Stephen Grider - "Coding Interview Bootcamp: Algorithms + Data Structures"
+
 /*
 --- Directions
 Given a string, return true if the string is a palindrome
