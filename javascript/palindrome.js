@@ -8,7 +8,7 @@
  * palindrome("abba") === true
  * palindrome("abcdefg") === false
  * 
- * Source: 	Stephen Grider - "Coding Interview Bootcamp: Algorithms + Data Structures"
+ * Source: Stephen Grider - "Coding Interview Bootcamp: Algorithms + Data Structures"
  */
 
 // Solution #1 - Most straightforward solution

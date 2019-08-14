@@ -9,7 +9,7 @@
  * All letters will be uppercase. Do not transform any non-alphabetic character 
  * (i.e. spaces, punctuation), but do pass them on.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 function rot13(str) {

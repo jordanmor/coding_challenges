@@ -5,7 +5,7 @@
  * one and itself. For example, 2 is a prime number because it's only divisible by one and two.
  * The provided number may not be a prime.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 function sumPrimes(num) {

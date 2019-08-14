@@ -3,7 +3,7 @@
  * Convert the characters &, <, >, " (double quote), and ' (apostrophe), 
  * in a string to their corresponding HTML entities.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // Solution #1

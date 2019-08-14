@@ -8,7 +8,7 @@
  * The character and its pair are paired up in an array, 
  * and all the arrays are grouped into one encapsulating array.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // Solution #1

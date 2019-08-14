@@ -7,7 +7,7 @@
  * For example, sumFibs(10) should return 10 because 
  * all odd Fibonacci numbers less than 10 are 1, 1, 3, and 5.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // Solution #1

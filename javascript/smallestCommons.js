@@ -8,7 +8,7 @@
  * e.g. for 1 and 3 - find the smallest common multiple of both 1 and 3 
  * that is evenly divisible by all numbers between 1 and 3.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 function smallestCommons(arr) {

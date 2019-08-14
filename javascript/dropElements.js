@@ -6,7 +6,7 @@
  * the first elements of the array to decide if you should drop it or not.
  * Return the rest of the array, otherwise return an empty array.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // Solution #1

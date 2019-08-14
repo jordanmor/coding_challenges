@@ -2,7 +2,7 @@
  * -- Challenge Instructions --
  * Convert the given number into a roman numeral.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // Solution #1

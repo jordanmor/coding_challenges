@@ -8,7 +8,7 @@
  * Return the string "Closed" if cash-in-drawer is equal to the change due.
  * Otherwise, return change in coin and bills, sorted in highest to lowest order.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // Solution #1

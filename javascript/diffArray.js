@@ -4,7 +4,7 @@
  * two given arrays, but not both. In other words, 
  * return the symmetric difference of the two arrays.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 function diffArray(arr1, arr2) {

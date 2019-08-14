@@ -15,7 +15,7 @@
  * The area code is required. If the country code is provided, you must confirm that the country code is 1. 
  * Return true if the string is a valid US phone number; otherwise return false.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 function telephoneCheck(str) {

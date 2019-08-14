@@ -4,7 +4,7 @@
  * of a collection (first argument). Remember, you can access object properties 
  * through either dot notation or [] notation.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // Solution #1

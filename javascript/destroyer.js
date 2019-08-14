@@ -4,7 +4,7 @@
  * followed by one or more arguments. Remove all elements from the initial array 
  * that are of the same value as these arguments.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 function destroyer(arr) {

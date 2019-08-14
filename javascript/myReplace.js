@@ -8,7 +8,7 @@
  * For example if you mean to replace the word "Book" with the word "dog", 
  * it should be replaced as "Dog"
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // Solution #1

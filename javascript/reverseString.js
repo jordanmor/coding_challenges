@@ -6,7 +6,7 @@
  * reverse('hello') === 'olleh'
  * reverse('Greetings!') === '!sgniteerG'
  * 
- * Source: 	Stephen Grider - "Coding Interview Bootcamp: Algorithms + Data Structures"
+ * Source: Stephen Grider - "Coding Interview Bootcamp: Algorithms + Data Structures"
  */
 
 // #1 Solution - BEST (most straightforward solution)

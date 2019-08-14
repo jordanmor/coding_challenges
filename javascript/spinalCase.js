@@ -3,7 +3,7 @@
  * Convert a string to spinal case. 
  * Spinal case is all-lowercase-words-joined-by-dashes.
  * 
- * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ * Source: freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
  */
 
 // ***** Spinal Tap Case *****

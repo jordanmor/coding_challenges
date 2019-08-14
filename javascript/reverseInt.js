@@ -8,7 +8,7 @@
  * reverseInt(-15) === -51
  * reverseInt(-90) === -9
  * 
- * Source: 	Stephen Grider - "Coding Interview Bootcamp: Algorithms + Data Structures"
+ * Source: Stephen Grider - "Coding Interview Bootcamp: Algorithms + Data Structures"
  */
 
 // Solution #1
