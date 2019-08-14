@@ -1,4 +1,6 @@
-package com.jm.coding_challenges.java.control_flow;
+// Source: 	Tim Buchalka - "Java Programming Masterclass for Software Developers"
+
+package com.jm.coding_challenges.java.easy;
 /*
  * We'll say that a number is "teen" if it is in the range 13 -19 (inclusive).
  *

@@ -1,4 +1,6 @@
-package com.jm.coding_challenges.java.control_flow;
+// Source: 	Tim Buchalka - "Java Programming Masterclass for Software Developers"
+
+package com.jm.coding_challenges.java.easy;
 /*
  * Write a method areEqualByThreeDecimalPlaces with two parameters of type double.
  * The method should return boolean and it needs to return true if two double numbers

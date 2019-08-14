@@ -10,4 +10,5 @@ Source Type | Title / Course | Author / Source
 ----------- | -------------- | -------------
 Course | Coding Interview Bootcamp: Algorithms + Data Structures | Stephen Grider
 Course | JavaScript Algorithms and Data Structures Certification Course | freeCodeCamp
+Course | Java Programming Masterclass for Software Developers | Tim Buchalka
 Book | Eloquent JavaScript | Marijn Haverbeke

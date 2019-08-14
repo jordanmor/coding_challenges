@@ -1,4 +1,6 @@
-package com.jm.coding_challenges.java.control_flow;
+// Source: 	Tim Buchalka - "Java Programming Masterclass for Software Developers"
+
+package com.jm.coding_challenges.java.easy;
 /*
 1.  Write a method called toMilesPerHour that has 1 parameter of type double with the name kilometersPerHour.
 	This method needs to return the rounded value of the calculation of type long.

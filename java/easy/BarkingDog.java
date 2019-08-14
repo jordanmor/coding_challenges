@@ -1,4 +1,6 @@
-package com.jm.coding_challenges.java.control_flow;
+// Source: 	Tim Buchalka - "Java Programming Masterclass for Software Developers"
+
+package com.jm.coding_challenges.java.easy;
 /*
 We have a dog that likes to bark. We need to wake up if the dog is barking at night!
 Write a method shouldWakeUp that has 2 parameters.

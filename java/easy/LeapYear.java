@@ -1,4 +1,6 @@
-package com.jm.coding_challenges.java.control_flow;
+// Source: 	Tim Buchalka - "Java Programming Masterclass for Software Developers"
+
+package com.jm.coding_challenges.java.easy;
 /*
 Write a method isLeapYear with a parameter of type int named year.
 The parameter needs to be greater than or equal to 1 and less than or equal to 9999.

@@ -20,6 +20,8 @@ function reverse(str) {
   return reversedStr;
 }
 
+console.log(reverse('Greetings!'));
+
 // #2 Solution - concise, but less straighforward than solution #1
 // function reverse(str) {
 //   return str.split('').reduce((rev, char) => char + rev, '');
@@ -70,5 +72,3 @@ Possible exception is solution #2 which affords a concise, elegant solution.
 //   });
 //   return reversedArray.join('');
 // }
-
-console.log(reverse('Greetings!'));

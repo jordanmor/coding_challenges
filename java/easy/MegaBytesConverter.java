@@ -1,4 +1,6 @@
-package com.jm.coding_challenges.java.control_flow;
+// Source: 	Tim Buchalka - "Java Programming Masterclass for Software Developers"
+
+package com.jm.coding_challenges.java.easy;
 
 /*
 Write a method called printMegaBytesAndKiloBytes that has 1 parameter of type int with the name kiloBytes.

@@ -20,39 +20,41 @@ function palindrome(str) {
   return reversedStr === str;
 }
 
-// Solution #2 - Most practical (too easy for interview purposes)
-
-// function palindrome(str) {
-//   const reversedStr = str.split('').reverse().join('');
-//   return reversedStr === str;
-// }
-
-// Solution #2.1 - More concise, not as readable
-
-// function palindrome(str) {
-//   return str === str.split('').reverse().join('');
-// }
-
-// Solution #3 - Makes use of reduce() method
-
-// function palindrome(str) {
-//   const reversedStr = str.split('').reduce((rev, char) => char + rev, '');
-//   return str === reversedStr;
-// }
-
-// Solution #3.1 - More concise, not as readable
-
-// function palindrome(str) {
-//   return str === str.split('').reduce((rev, char) => char + rev, '');
-// }
-
-// Solution #4 - Makes use of every() method
-
-// function palindrome(str) {
-//   return str.split('').every((char, i) => {
-//     return char === str[str.length - i - 1];
-//   });
-// }
-
 console.log(palindrome('abba')); // true
 console.log(palindrome('abcdefg')); // false
+
+// ============== OTHER SOLUTIONS ============== //
+
+// Solution #2 - Most practical (too easy for interview purposes)
+
+function palindrome2(str) {
+  const reversedStr = str.split('').reverse().join('');
+  return reversedStr === str;
+}
+
+// Solution #3 - More concise, not as readable
+
+function palindrome3(str) {
+  return str === str.split('').reverse().join('');
+}
+
+// Solution #4 - Makes use of reduce() method
+
+function palindrome4(str) {
+  const reversedStr = str.split('').reduce((rev, char) => char + rev, '');
+  return str === reversedStr;
+}
+
+// Solution #5 - More concise, not as readable
+
+function palindrome5(str) {
+  return str === str.split('').reduce((rev, char) => char + rev, '');
+}
+
+// Solution #5 - Makes use of every() method
+
+function palindrome5(str) {
+  return str.split('').every((char, i) => {
+    return char === str[str.length - i - 1];
+  });
+}
