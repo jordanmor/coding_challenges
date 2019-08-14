@@ -1,11 +1,11 @@
-// Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+/**
+ * -- Challenge Instructions --
+ * Convert the given number into a roman numeral.
+ * 
+ * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ */
 
-// ***** Roman Numeral Converter *****
-
-/* 
-Convert the given number into a roman numeral.
-*/
-
+// Solution #1
 function convertToRoman(num) {
   var decimalValue = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
   var romanNumeral = ['M', 'CM', 'D', 'CD', 'C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I'];
@@ -26,6 +26,7 @@ console.log(convertToRoman(1148)); // MCXLVIII
 
 // ============== OTHER SOLUTIONS ============== //
 
+// Solution #2
 function convertToRoman2(num) {
   var romanNum = '';
   while(num > 0) {

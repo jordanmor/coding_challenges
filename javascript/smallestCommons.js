@@ -1,16 +1,15 @@
-// Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
-
-// ***** Smallest Common Multiple *****
-
-/* 
-Find the smallest common multiple of the provided parameters that 
-can be evenly divided by both, as well as by all sequential 
-numbers in the range between these parameters.
-The range will be an array of two numbers that will not 
-necessarily be in numerical order.
-e.g. for 1 and 3 - find the smallest common multiple of both 1 and 3 
-that is evenly divisible by all numbers between 1 and 3.
-*/
+/**
+ * -- Challenge Instructions --
+ * Find the smallest common multiple of the provided parameters that 
+ * can be evenly divided by both, as well as by all sequential 
+ * numbers in the range between these parameters.
+ * The range will be an array of two numbers that will not 
+ * necessarily be in numerical order.
+ * e.g. for 1 and 3 - find the smallest common multiple of both 1 and 3 
+ * that is evenly divisible by all numbers between 1 and 3.
+ * 
+ * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ */
 
 function smallestCommons(arr) {
 
@@ -28,4 +27,4 @@ function smallestCommons(arr) {
   return multiple;  
 }
 
-console.log(smallestCommons([1,5]));
+console.log(smallestCommons([1,5])); // 60

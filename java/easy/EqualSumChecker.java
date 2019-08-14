@@ -1,4 +1,11 @@
-// Source: 	Tim Buchalka - "Java Programming Masterclass for Software Developers"
+/**
+ * -- Challenge Instructions --
+ * Write a method hasEqualSum with 3 parameters of type int.
+ * The method should return boolean and it needs to return true if the sum
+ * of the first and second parameter is equal to the third parameter. Otherwise, return false.
+ *
+ * Source: Tim Buchalka - "Java Programming Masterclass for Software Developers"
+ */
 
 package com.jm.coding_challenges.java.easy;
 /*

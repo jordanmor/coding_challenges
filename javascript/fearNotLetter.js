@@ -1,14 +1,12 @@
-// Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+/**
+ * -- Challenge Instructions --
+ * Find the missing letter in the passed letter range and return it.
+ * If all letters are present in the range, return undefined.
+ * 
+ * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ */
 
-// ***** Missing Letters *****
-
-/* 
-Find the missing letter in the passed letter range and return it.
-If all letters are present in the range, return undefined.
-*/
-
-// --- BEST SOLUTION ---
-
+// Solution #1
 function fearNotLetter(str) {
 
   let firstCharCode = str.charCodeAt(0);

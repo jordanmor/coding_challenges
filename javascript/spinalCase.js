@@ -1,13 +1,14 @@
-// Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+/**
+ * -- Challenge Instructions --
+ * Convert a string to spinal case. 
+ * Spinal case is all-lowercase-words-joined-by-dashes.
+ * 
+ * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ */
 
 // ***** Spinal Tap Case *****
 
-/* 
-Convert a string to spinal case. 
-Spinal case is all-lowercase-words-joined-by-dashes.
-*/
-
- // --- BEST SOLUTION ---
+// Solution #1
  function spinalCase(str) {
   return str.replace(/([a-z])([A-Z])|[_\s]+/g, '$1-$2').toLowerCase();
 }

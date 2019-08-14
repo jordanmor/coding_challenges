@@ -1,12 +1,11 @@
-// Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
-
-// ***** Everything Be True *****
-
-/* 
-Check if the predicate (second argument) is truthy on all elements 
-of a collection (first argument). Remember, you can access object properties 
-through either dot notation or [] notation.
-*/
+/**
+ * -- Challenge Instructions --
+ * Check if the predicate (second argument) is truthy on all elements 
+ * of a collection (first argument). Remember, you can access object properties 
+ * through either dot notation or [] notation.
+ * 
+ * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ */
 
 // Solution #1
 function truthCheck(collection, pre) {

@@ -1,11 +1,10 @@
-// Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
-
-// ***** Convert HTML Entities *****
-
-/* 
-Convert the characters &, <, >, " (double quote), and ' (apostrophe), 
-in a string to their corresponding HTML entities.
-*/
+/**
+ * -- Challenge Instructions --
+ * Convert the characters &, <, >, " (double quote), and ' (apostrophe), 
+ * in a string to their corresponding HTML entities.
+ * 
+ * Source: 	freeCodeCamp - "JavaScript Algorithms and Data Structures Certification"
+ */
 
 // Solution #1
 function convertHTML(str) {
