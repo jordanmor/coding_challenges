@@ -12,3 +12,8 @@ Course | Coding Interview Bootcamp: Algorithms + Data Structures | Stephen Gride
 Course | JavaScript Algorithms and Data Structures Certification Course | freeCodeCamp
 Course | Java Programming Masterclass for Software Developers | Tim Buchalka
 Book | Eloquent JavaScript | Marijn Haverbeke
+
+**Note**  
+Solutions to challenges from the following repos were merged into this current repo:  
+[javascript-challenges](https://github.com/jordanmor/javascript-challenges)  
+[java-challenges](https://github.com/jordanmor/java-challenges)
